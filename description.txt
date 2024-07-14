@@ -1,1 +1,0 @@
-This is a project which will push things from local to remote repo and hence do the automated CI/CD
